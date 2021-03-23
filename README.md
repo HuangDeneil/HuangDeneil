@@ -1,0 +1,3 @@
+-  Hi, I’m @HuangDeneil. I'm a bioinformatics engineer. Basicly, My job is pathogen nuclutide detection.
+-  I’m interested in programing (perl, python, R, shell script, PHP ,etc ...) and web application development.
+-  I’m currently developing bioinfomatics tools.
