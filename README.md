@@ -1,3 +1,1 @@
 -  Hi, I’m @HuangDeneil. I'm a bioinformatics engineer.
--  My prefering programing langangue is perl, and web application development related langangue.
--  I’m currently developing bioinfomatics tools.
